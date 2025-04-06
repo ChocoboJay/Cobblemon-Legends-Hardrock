@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "additionalplacements:minecraft.nether_brick_stairs",
-    "additionalplacements:minecraft.nether_brick_slab",
-    "additionalplacements:minecraft.red_nether_brick_stairs",
-    "additionalplacements:minecraft.red_nether_brick_slab"
-  ]
-}

@@ -1,4 +1,0 @@
-#041 tfc:hills
-#32F tfc:low_canyons
-#7FB tfc:river
-#5C7 tfc:rolling_hills

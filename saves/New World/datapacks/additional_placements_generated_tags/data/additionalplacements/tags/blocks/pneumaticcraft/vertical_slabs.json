@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "additionalplacements:pneumaticcraft.reinforced_brick_slab",
-    "additionalplacements:pneumaticcraft.reinforced_stone_slab",
-    "additionalplacements:pneumaticcraft.compressed_brick_slab",
-    "additionalplacements:pneumaticcraft.compressed_stone_slab"
-  ]
-}

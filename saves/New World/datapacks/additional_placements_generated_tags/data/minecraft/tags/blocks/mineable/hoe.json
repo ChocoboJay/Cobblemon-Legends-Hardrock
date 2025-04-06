@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "additionalplacements:minecraft.moss_carpet",
-    "additionalplacements:firmaciv.thatch_roofing",
-    "additionalplacements:firmaciv.thatch_roofing_stairs",
-    "additionalplacements:firmaciv.thatch_roofing_slab"
-  ]
-}
