@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:firmalife.weathered_treated_wood_greenhouse_roof",
+    "additionalplacements:firmalife.weathered_treated_wood_greenhouse_roof_top",
+    "additionalplacements:firmalife.treated_wood_greenhouse_roof",
+    "additionalplacements:firmalife.treated_wood_greenhouse_roof_top"
+  ]
+}

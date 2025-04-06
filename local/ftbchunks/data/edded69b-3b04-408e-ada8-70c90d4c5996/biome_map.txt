@@ -1,0 +1,16 @@
+#0F2 tfc:badlands
+#51A tfc:canyons
+#175 tfc:highlands
+#041 tfc:hills
+#32F tfc:low_canyons
+#6ED tfc:ocean
+#08E tfc:oceanic_mountains
+#15D tfc:old_mountains
+#5D8 tfc:plains
+#7B9 tfc:plateau
+#7FB tfc:river
+#5C7 tfc:rolling_hills
+#25C tfc:shore
+#284 tfc:tidal_flats
+#32D tfc:volcanic_mountains
+#646 tfc:volcanic_oceanic_mountains

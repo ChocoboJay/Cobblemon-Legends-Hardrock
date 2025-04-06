@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:firmalife.rustic_bricks_slab",
+    "additionalplacements:firmalife.rustic_bricks_stairs",
+    "additionalplacements:firmalife.tiles_slab",
+    "additionalplacements:firmalife.tiles_stairs"
+  ]
+}

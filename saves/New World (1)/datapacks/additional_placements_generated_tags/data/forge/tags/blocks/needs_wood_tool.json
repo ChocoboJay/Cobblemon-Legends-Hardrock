@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:twilightforest.nagastone_stairs_left",
+    "additionalplacements:twilightforest.nagastone_stairs_right",
+    "additionalplacements:twilightforest.mossy_nagastone_stairs_left",
+    "additionalplacements:twilightforest.mossy_nagastone_stairs_right",
+    "additionalplacements:twilightforest.cracked_nagastone_stairs_left",
+    "additionalplacements:twilightforest.cracked_nagastone_stairs_right",
+    "additionalplacements:twilightforest.aurora_slab"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:firmalife.rusted_iron_greenhouse_roof",
+    "additionalplacements:firmalife.rusted_iron_greenhouse_roof_top",
+    "additionalplacements:firmalife.iron_greenhouse_roof",
+    "additionalplacements:firmalife.iron_greenhouse_roof_top",
+    "additionalplacements:firmalife.oxidized_copper_greenhouse_roof",
+    "additionalplacements:firmalife.oxidized_copper_greenhouse_roof_top",
+    "additionalplacements:firmalife.weathered_copper_greenhouse_roof",
+    "additionalplacements:firmalife.weathered_copper_greenhouse_roof_top",
+    "additionalplacements:firmalife.exposed_copper_greenhouse_roof",
+    "additionalplacements:firmalife.exposed_copper_greenhouse_roof_top",
+    "additionalplacements:firmalife.copper_greenhouse_roof",
+    "additionalplacements:firmalife.copper_greenhouse_roof_top",
+    "additionalplacements:firmalife.weathered_treated_wood_greenhouse_roof",
+    "additionalplacements:firmalife.weathered_treated_wood_greenhouse_roof_top",
+    "additionalplacements:firmalife.treated_wood_greenhouse_roof",
+    "additionalplacements:firmalife.treated_wood_greenhouse_roof_top",
+    "additionalplacements:firmalife.stainless_steel_greenhouse_roof",
+    "additionalplacements:firmalife.stainless_steel_greenhouse_roof_top"
+  ]
+}

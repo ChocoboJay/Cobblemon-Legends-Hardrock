@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.deepslate_tile_slab",
+    "additionalplacements:minecraft.deepslate_brick_stairs",
+    "additionalplacements:minecraft.deepslate_brick_slab"
+  ]
+}

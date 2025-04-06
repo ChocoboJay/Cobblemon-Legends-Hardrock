@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:firmaciv.thatch_roofing",
+    "additionalplacements:firmaciv.thatch_roofing_stairs",
+    "additionalplacements:firmaciv.thatch_roofing_slab"
+  ]
+}

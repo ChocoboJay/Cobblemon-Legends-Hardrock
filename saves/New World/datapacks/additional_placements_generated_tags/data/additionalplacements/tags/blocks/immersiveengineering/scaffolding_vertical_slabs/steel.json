@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:immersiveengineering.slab_steel_scaffolding_standard",
+    "additionalplacements:immersiveengineering.slab_steel_scaffolding_grate_top",
+    "additionalplacements:immersiveengineering.slab_steel_scaffolding_wooden_top"
+  ]
+}

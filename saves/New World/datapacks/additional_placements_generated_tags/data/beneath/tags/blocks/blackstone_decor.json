@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.blackstone_stairs",
+    "additionalplacements:minecraft.blackstone_slab",
+    "additionalplacements:minecraft.polished_blackstone_brick_slab",
+    "additionalplacements:minecraft.polished_blackstone_brick_stairs",
+    "additionalplacements:minecraft.polished_blackstone_stairs",
+    "additionalplacements:minecraft.polished_blackstone_slab"
+  ]
+}

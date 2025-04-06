@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:twilightforest.castle_brick_stairs",
+    "additionalplacements:twilightforest.worn_castle_brick_stairs",
+    "additionalplacements:twilightforest.cracked_castle_brick_stairs",
+    "additionalplacements:twilightforest.mossy_castle_brick_stairs",
+    "additionalplacements:twilightforest.encased_castle_brick_stairs",
+    "additionalplacements:twilightforest.bold_castle_brick_stairs"
+  ]
+}

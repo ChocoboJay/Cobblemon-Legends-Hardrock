@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:firmaciv.wood/acacia_roofing",
+    "additionalplacements:firmaciv.wood/ash_roofing",
+    "additionalplacements:firmaciv.wood/aspen_roofing",
+    "additionalplacements:firmaciv.wood/birch_roofing",
+    "additionalplacements:firmaciv.wood/blackwood_roofing",
+    "additionalplacements:firmaciv.wood/chestnut_roofing",
+    "additionalplacements:firmaciv.wood/douglas_fir_roofing",
+    "additionalplacements:firmaciv.wood/hickory_roofing",
+    "additionalplacements:firmaciv.wood/kapok_roofing",
+    "additionalplacements:firmaciv.wood/mangrove_roofing",
+    "additionalplacements:firmaciv.wood/maple_roofing",
+    "additionalplacements:firmaciv.wood/oak_roofing",
+    "additionalplacements:firmaciv.wood/palm_roofing",
+    "additionalplacements:firmaciv.wood/pine_roofing",
+    "additionalplacements:firmaciv.wood/rosewood_roofing",
+    "additionalplacements:firmaciv.wood/sequoia_roofing",
+    "additionalplacements:firmaciv.wood/spruce_roofing",
+    "additionalplacements:firmaciv.wood/sycamore_roofing",
+    "additionalplacements:firmaciv.wood/white_cedar_roofing",
+    "additionalplacements:firmaciv.wood/willow_roofing"
+  ]
+}

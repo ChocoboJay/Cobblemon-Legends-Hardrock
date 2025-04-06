@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:firmalife.oxidized_copper_greenhouse_roof",
+    "additionalplacements:firmalife.oxidized_copper_greenhouse_roof_top",
+    "additionalplacements:firmalife.weathered_copper_greenhouse_roof",
+    "additionalplacements:firmalife.weathered_copper_greenhouse_roof_top",
+    "additionalplacements:firmalife.exposed_copper_greenhouse_roof",
+    "additionalplacements:firmalife.exposed_copper_greenhouse_roof_top",
+    "additionalplacements:firmalife.copper_greenhouse_roof",
+    "additionalplacements:firmalife.copper_greenhouse_roof_top"
+  ]
+}

@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/jorda.DESKTOP-0NHQ273/curseforge/minecraft/Instances/HardRock TerraFirmaCraft 4 - realistic extreme survival hardcore - Cobblemon Mania/saves/New World (1)
+}
+

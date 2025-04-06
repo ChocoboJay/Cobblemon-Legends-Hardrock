@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:tfc.rock/smooth/granite_slab",
+    "additionalplacements:tfc.rock/smooth/diorite_slab",
+    "additionalplacements:tfc.rock/smooth/gabbro_slab",
+    "additionalplacements:tfc.rock/smooth/shale_slab",
+    "additionalplacements:tfc.rock/smooth/claystone_slab",
+    "additionalplacements:tfc.rock/smooth/limestone_slab",
+    "additionalplacements:tfc.rock/smooth/conglomerate_slab",
+    "additionalplacements:tfc.rock/smooth/dolomite_slab",
+    "additionalplacements:tfc.rock/smooth/chert_slab",
+    "additionalplacements:tfc.rock/smooth/chalk_slab",
+    "additionalplacements:tfc.rock/smooth/rhyolite_slab",
+    "additionalplacements:tfc.rock/smooth/basalt_slab",
+    "additionalplacements:tfc.rock/smooth/andesite_slab",
+    "additionalplacements:tfc.rock/smooth/dacite_slab",
+    "additionalplacements:tfc.rock/smooth/quartzite_slab",
+    "additionalplacements:tfc.rock/smooth/slate_slab",
+    "additionalplacements:tfc.rock/smooth/phyllite_slab",
+    "additionalplacements:tfc.rock/smooth/schist_slab",
+    "additionalplacements:tfc.rock/smooth/gneiss_slab",
+    "additionalplacements:tfc.rock/smooth/marble_slab"
+  ]
+}

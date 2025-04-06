@@ -1,0 +1,14 @@
+#0F2 tfc:badlands
+#175 tfc:highlands
+#041 tfc:hills
+#6FC tfc:inverted_badlands
+#77E tfc:lake
+#32F tfc:low_canyons
+#575 tfc:mountains
+#6ED tfc:ocean
+#08E tfc:oceanic_mountains
+#15D tfc:old_mountains
+#7B9 tfc:plateau
+#7FB tfc:river
+#5C7 tfc:rolling_hills
+#646 tfc:volcanic_oceanic_mountains

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.stone_pressure_plate",
+    "additionalplacements:minecraft.polished_blackstone_pressure_plate",
+    "additionalplacements:tfc.rock/pressure_plate/granite",
+    "additionalplacements:tfc.rock/pressure_plate/diorite",
+    "additionalplacements:tfc.rock/pressure_plate/gabbro",
+    "additionalplacements:tfc.rock/pressure_plate/shale",
+    "additionalplacements:tfc.rock/pressure_plate/claystone",
+    "additionalplacements:tfc.rock/pressure_plate/limestone",
+    "additionalplacements:tfc.rock/pressure_plate/conglomerate",
+    "additionalplacements:tfc.rock/pressure_plate/dolomite",
+    "additionalplacements:tfc.rock/pressure_plate/chert",
+    "additionalplacements:tfc.rock/pressure_plate/chalk",
+    "additionalplacements:tfc.rock/pressure_plate/rhyolite",
+    "additionalplacements:tfc.rock/pressure_plate/basalt",
+    "additionalplacements:tfc.rock/pressure_plate/andesite",
+    "additionalplacements:tfc.rock/pressure_plate/dacite",
+    "additionalplacements:tfc.rock/pressure_plate/quartzite",
+    "additionalplacements:tfc.rock/pressure_plate/slate",
+    "additionalplacements:tfc.rock/pressure_plate/phyllite",
+    "additionalplacements:tfc.rock/pressure_plate/schist",
+    "additionalplacements:tfc.rock/pressure_plate/gneiss",
+    "additionalplacements:tfc.rock/pressure_plate/marble",
+    "additionalplacements:enlightened_end.palerock_pressure_plate",
+    "additionalplacements:enlightened_end.void_shale_pressure_plate"
+  ]
+}

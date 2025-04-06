@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:enlightened_end.dazzling_bismuth_sheet_stairs",
+    "additionalplacements:enlightened_end.dazzling_bismuth_slab",
+    "additionalplacements:enlightened_end.verdant_bismuth_sheet_stairs",
+    "additionalplacements:enlightened_end.verdant_bismuth_sheet_slab",
+    "additionalplacements:enlightened_end.poise_bismuth_sheet_stairs",
+    "additionalplacements:enlightened_end.poise_bismuth_sheet_slab",
+    "additionalplacements:enlightened_end.ethereal_bismuth_sheet_stairs",
+    "additionalplacements:enlightened_end.ethereal_bismuth_sheet_slab",
+    "additionalplacements:enlightened_end.serene_bismuth_sheet_stairs",
+    "additionalplacements:enlightened_end.serene_bismuth_sheet_slab",
+    "additionalplacements:enlightened_end.iridescent_bismuth_sheet_stairs",
+    "additionalplacements:enlightened_end.iridescent_bismuth_sheet_slab"
+  ]
+}

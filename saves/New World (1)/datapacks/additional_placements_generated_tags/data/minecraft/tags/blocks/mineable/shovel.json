@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:tfc.mud_bricks/silt_slab",
+    "additionalplacements:tfc.mud_bricks/silt_stairs",
+    "additionalplacements:tfc.mud_bricks/loam_slab",
+    "additionalplacements:tfc.mud_bricks/loam_stairs",
+    "additionalplacements:tfc.mud_bricks/sandy_loam_slab",
+    "additionalplacements:tfc.mud_bricks/sandy_loam_stairs",
+    "additionalplacements:tfc.mud_bricks/silty_loam_slab",
+    "additionalplacements:tfc.mud_bricks/silty_loam_stairs",
+    "additionalplacements:vinery.loam_stairs",
+    "additionalplacements:vinery.loam_slab",
+    "additionalplacements:vinery.coarse_dirt_slab",
+    "additionalplacements:vinery.dirt_slab",
+    "additionalplacements:vinery.grass_slab"
+  ]
+}

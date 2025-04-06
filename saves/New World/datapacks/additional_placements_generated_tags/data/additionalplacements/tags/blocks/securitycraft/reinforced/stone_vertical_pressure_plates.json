@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:securitycraft.reinforced_stone_pressure_plate",
+    "additionalplacements:securitycraft.reinforced_polished_blackstone_pressure_plate"
+  ]
+}

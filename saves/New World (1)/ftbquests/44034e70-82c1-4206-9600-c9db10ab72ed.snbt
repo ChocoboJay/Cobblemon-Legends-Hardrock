@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "44034e7082c142069600c9db10ab72ed"
+	name: "ChocoboJay#44034e70"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

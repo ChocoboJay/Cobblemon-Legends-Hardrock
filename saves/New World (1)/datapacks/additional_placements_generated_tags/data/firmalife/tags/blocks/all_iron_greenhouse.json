@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:firmalife.rusted_iron_greenhouse_roof",
+    "additionalplacements:firmalife.rusted_iron_greenhouse_roof_top",
+    "additionalplacements:firmalife.iron_greenhouse_roof",
+    "additionalplacements:firmalife.iron_greenhouse_roof_top"
+  ]
+}

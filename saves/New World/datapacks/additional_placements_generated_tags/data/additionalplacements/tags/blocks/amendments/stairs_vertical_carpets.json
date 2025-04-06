@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.white_carpet",
+    "additionalplacements:minecraft.orange_carpet",
+    "additionalplacements:minecraft.magenta_carpet",
+    "additionalplacements:minecraft.light_blue_carpet",
+    "additionalplacements:minecraft.yellow_carpet",
+    "additionalplacements:minecraft.lime_carpet",
+    "additionalplacements:minecraft.pink_carpet",
+    "additionalplacements:minecraft.gray_carpet",
+    "additionalplacements:minecraft.light_gray_carpet",
+    "additionalplacements:minecraft.cyan_carpet",
+    "additionalplacements:minecraft.purple_carpet",
+    "additionalplacements:minecraft.blue_carpet",
+    "additionalplacements:minecraft.brown_carpet",
+    "additionalplacements:minecraft.green_carpet",
+    "additionalplacements:minecraft.red_carpet",
+    "additionalplacements:minecraft.black_carpet",
+    "additionalplacements:minecraft.moss_carpet",
+    "additionalplacements:brewery.patterned_carpet"
+  ]
+}
